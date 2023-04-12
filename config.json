@@ -1,16 +1,16 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Prueba",
+  "name": "Max Power",
+  "ascii": "Prueba",
   "social": {
     "github": "github",
     "linkedin": "linkedin"
   },
   "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "ps1_hostname": "PublicisGroup",
+  "ps1_username": "user",
+  "repo": "https://www.google.com/maps/place/Urban+Paintball+Extremo/@-34.5344223,-58.4509922,15z/data=!4m2!3m1!1s0x0:0xbaedbf8ba105d370?sa=X&ved=2ahUKEwif8KOs7qL-AhWyqpUCHQG1BzwQ_BJ6BAhnEAg",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
@@ -27,13 +27,13 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background": "#282a36",
+      "foreground": "#f8f8f2",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#bd93f9",
+      "blue": "#8be9fd",
+      "red": "#ff5555"
     }
   }
 }
